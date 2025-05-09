@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nui Suriya</h1>
-<h3 align="center">A junior Full-Stack Developer from Thailand and based in the Netherlands</h3>
-
-- 🔭 I’m currently working on [rails-transtalentsth](https://github.com/NuiSuriya/rails-transtalentsth)
-
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, JavaScript, Java, React, PHP, Vue**
+<h3 align="center">A CMS Developer from Thailand and based in the Netherlands</h3>
 
 - 📫 How to reach me **Atchara.suriya@gmail.com**
 
